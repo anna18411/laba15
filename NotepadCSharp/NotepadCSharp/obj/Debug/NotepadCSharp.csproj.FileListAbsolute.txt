@@ -1,0 +1,12 @@
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.exe.config
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.exe
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\bin\Debug\NotepadCSharp.pdb
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.csprojResolveAssemblyReference.cache
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.blank.resources
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.frmmain.resources
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.Properties.Resources.resources
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.csproj.GenerateResource.Cache
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.exe
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.pdb
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.About.resources
+D:\12 учеба\сессия 2017\Проектирование ИС Гусева\Лаб 10\NotepadCSharp\NotepadCSharp\obj\Debug\NotepadCSharp.FindForm.resources
